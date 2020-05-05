@@ -93,6 +93,7 @@ PODS:
 DEPENDENCIES:
   - Firebase/Analytics
   - Firebase/RemoteConfig
+  - FirebaseInstanceID
 
 SPEC REPOS:
   trunk:
@@ -133,6 +134,6 @@ SPEC CHECKSUMS:
   PromisesObjC: c119f3cd559f50b7ae681fa59dc1acd19173b7e6
   Protobuf: 176220c526ad8bd09ab1fb40a978eac3fef665f7
 
-PODFILE CHECKSUM: f917b4ca843dc170e07f93ab94d0db567a96e417
+PODFILE CHECKSUM: 112c41b042b6aa25599a12348ca8fa24b4f22c0a
 
 COCOAPODS: 1.9.1
